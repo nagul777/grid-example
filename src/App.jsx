@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div className='w-screen h-screen bg-[#f1eeee] grid justify-center items-center'>
+      <div className='w-screen h-full bg-[#f1eeee] grid justify-center items-center'>
         <div className='grid grid-cols-4 gap-4 w-[1000px]'>
 
           <div className='bg-[#f9eee1] row-span-2 p-[27px] flex flex-col justify-center items-center rounded-xl'>
