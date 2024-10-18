@@ -21,7 +21,7 @@ function App() {
           </div>
 
           <div className='bg-[#dacffc] row-span-3 rounded-xl p-[18px] overflow-hidden'>
-            <h4 className='text-[22px] mt-3 font-semibold'>Schedule to social media.</h4>
+            <h4 className='text-[22px] mt-4 font-semibold'>Schedule to social media.</h4>
             <img src="https://cendyz.github.io/bento-grid-main/img/illustration-schedule-posts.webp" alt="graph" className='w-[300px] h-[200px] object-fill ml-[30px] my-[18px]'/>
             <p className='text-base m-[0px_16px_8px_8px]'>Optimize post timings to publish content at the perfect time for your audience.</p>
           </div>
